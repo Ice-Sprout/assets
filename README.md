@@ -1,0 +1,2 @@
+# assets
+For saving pictures.
